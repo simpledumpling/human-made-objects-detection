@@ -1,5 +1,0 @@
-c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetworkLibrary\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.dll
-c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetworkLibrary\NeuralNetworkLibrary\bin\Debug\NeuralNetworkLibrary.pdb
-c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetworkLibrary\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.csprojResolveAssemblyReference.cache
-c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetworkLibrary\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.dll
-c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetworkLibrary\NeuralNetworkLibrary\obj\Debug\NeuralNetworkLibrary.pdb
