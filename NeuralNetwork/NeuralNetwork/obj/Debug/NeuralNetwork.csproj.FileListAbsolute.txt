@@ -1,0 +1,14 @@
+c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.Cache
+c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+c:\users\анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\Анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetworkLibrary.dll
+C:\Users\Анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetworkLibrary.pdb
+C:\Users\Анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.FormNetwork.resources
+C:\Users\Анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.FormCreateSample.resources
+C:\Users\Анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.FormCreateNetwork.resources
+C:\Users\Анастасия\documents\visual studio 2013\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.FormHelp.resources
